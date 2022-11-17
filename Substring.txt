@@ -1,0 +1,8 @@
+class  Substring
+{
+	public static void main(String[] args) 
+	{
+	  String str = "java is a language";
+	  System.out.println(str.substring(3));
+	}
+}
